@@ -1,0 +1,4 @@
+openai>=1.0.0
+weave>=0.50.0
+yfinance>=0.2.0
+python-dotenv>=1.0.0
